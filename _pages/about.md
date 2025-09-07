@@ -20,7 +20,6 @@ Topics I am currently interested in researching include: Mobile Computing and Ar
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
 In my free time, I enjoy playing video games and watching movies and documentaries. On rare occasions I leave my house, I enjoy running and going on walks in the natural lands.
 
 
