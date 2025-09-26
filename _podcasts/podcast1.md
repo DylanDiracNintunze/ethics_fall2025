@@ -5,6 +5,6 @@ permalink: /podcasts/podcast1
 excerpt: "Let's chat about ethical frameworks in X,Y,Z."
 date: 2025-09-26
 audio: ethics_fall2025/files/testing.mp3
-#video: ethics_fall2025/files/pod1_video.mp4
+video: ethics_fall2025/files/testing.mp4
 ---
 Details about the podcast.
