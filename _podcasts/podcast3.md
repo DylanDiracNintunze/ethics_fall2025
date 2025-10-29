@@ -11,4 +11,4 @@ In this podcast we diescuss how social media usage influences social relationshi
 
 Below is an infographic that is AI generated based on a summary of the content of the podcast.
 
-![podcast3 infographic](/usr/src/app/images/infographic.png)
+![podcast3Infographic](infographic-1.png)
