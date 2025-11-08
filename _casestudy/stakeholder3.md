@@ -2,6 +2,7 @@
 permalink: /casestudy/stakeholder3/
 title: 'Stakeholder 3'
 author_profile: true
+layout: default
 ---
 
 Content for Stakeholder 3.
