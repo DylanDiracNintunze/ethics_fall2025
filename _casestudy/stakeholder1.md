@@ -1,6 +1,6 @@
 ---
-permalink: /stakeholder1/
-title: "Stakeholder1"
+permalink: /casestudy/stakeholder1/
+title: 'Stakeholder1'
 ---
 
 Content for Stakeholder 1.
