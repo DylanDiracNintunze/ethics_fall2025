@@ -4,21 +4,12 @@ title: "Case Study"
 author_profile: true
 ---
 
-Drop spot for your case study work
-
-## Overview
-
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
-
-## Requirements
-
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
-
 ## Outline
 
-This case study aims to explore design features of some of the most-used apps worldwide and what makes them addictive. I will look at psychological and economic concepts that influence the choice of app designers when making addictive apps and the impact of excessive apps usage on mental health. The general points of this case study will include concepts definition and a brief overview of the design process of an app.
+This case study aims to explore design features of some of the most-used apps worldwide and what makes them addictive. I will look at psychological and economic concepts that influence the choice of app designers when making addictive apps and the impact of excessive apps usage on mental health. The general points of this case study will include concepts definition related to app development, design and mental health and a brief overview of the design process of an app.
 
-For my first audience, app users, I will include an overview of online addictive behavior and their causes that stem from the apps themselves. After that, I will discuss the concept of addiction and some ways to deal with it.
+For my first audience, app users, I will include an overview of online addictive behavior and the most notable causes of such behavior that stem from the apps themselves. After that, I will discuss the concept of addiction and some practical ways to deal with it. [Go to the Stakeholder1 page to learn more.](/_casestudy/stakeholder1.md)
 
-For my second audience, the app developers, I will discuss the mental health impacts of addictive apps on their users and how their design choices feed into online addictive behavior. After that, I will go into current regulations that aim to curb the detrimental effects of excessive use of online apps.
+For my second audience, the app developers, I will discuss the mental health impacts of addictive apps on their users and how their design choices feed into online addictive behavior. After that, I will go into current regulations that aim to curb the detrimental effects of excessive use of online apps. Finally, I will go into how society is being impacted by online addiction for them to understand that they might meet with the consequences as well. [Go to the Stakeholder2 page to learn more](/_casestudy/stakeholder2.md)
+
+For my third audience, the relatives of those addicted, I will present ways to offer help to their closed ones as well as ways to spot when an addiction might be evolving into something worse such as causing harm to oneself or others. Finally, I will present some of the healthy alternatives that they can encourage those directly affected to take instead. [Go to the Stakeholder3 page to learn more](/_casestudy/stakeholder3.md)
