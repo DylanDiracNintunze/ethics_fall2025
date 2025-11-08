@@ -1,7 +1,9 @@
 ---
+permalink: /casestudy/stakeholder1
 title: "Stakeholder1"
 layout: default
 ---
+
 Content for Stakeholder 1.
 
 [Back to Main Case Study](/_pages/casestudy.md)
