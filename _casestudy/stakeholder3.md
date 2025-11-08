@@ -1,7 +1,6 @@
 ---
 permalink: /stakeholder3
 title: "Stakeholder 3"
-layout: default
 ---
 
 Content for Stakeholder 3.
