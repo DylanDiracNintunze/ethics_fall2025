@@ -1,7 +1,6 @@
 ---
-permalink: /casestudy/Stakeholder_1/
-title: 'Stakeholder_1'
-author_profile: true
+title: 'Stakeholder1'
+layout: default
 ---
 
 Content for Stakeholder 1.
