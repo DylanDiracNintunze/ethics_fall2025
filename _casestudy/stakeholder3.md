@@ -7,4 +7,4 @@ layout: default
 
 Content for Stakeholder 3.
 
-[Back to Main Case Study](casestudy/)
+[Back to Main Case Study](ethics_fall2025/casestudy/)
