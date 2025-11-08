@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/stakeholder1/
+permalink: /casestudy/Stakeholder_1/
 title: 'Stakeholder_1'
 author_profile: true
 ---
