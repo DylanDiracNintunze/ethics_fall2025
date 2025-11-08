@@ -4,7 +4,7 @@ title: "Case Study"
 author_profile: true
 ---
 
-## Outline
+## Abstract
 
 This case study aims to explore design features of some of the most-used apps worldwide and what makes them addictive. I will look at psychological and economic concepts that influence the choice of app designers when making addictive apps and the impact of excessive apps usage on mental health. The general points of this case study will include concepts definition related to app development, design and mental health and a brief overview of the design process of an app.
 
