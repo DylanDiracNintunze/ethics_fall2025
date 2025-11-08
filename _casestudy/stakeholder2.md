@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/stakeholder2
+permalink: /stakeholder2
 title: "Stakeholder 2"
 layout: default
 ---
