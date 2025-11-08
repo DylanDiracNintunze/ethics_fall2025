@@ -1,6 +1,6 @@
 ---
 permalink: /casestudy/stakeholder1/
-title: 'Stakeholder 1'
+title: 'Stakeholder_1'
 author_profile: true
 ---
 
