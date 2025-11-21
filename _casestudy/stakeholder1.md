@@ -52,7 +52,7 @@ Here are some practical steps that one can take on their own in order to fight P
 
 * Remove apps that exploit streaks or fear-of-missing-out.
 
-* Practice intentional usage—schedule check-in times.
+* Practice intentional usage like scheduling check-in times.
 
 These strategies can help mitigate the constant loops, as Alter describes, the "impulse to check" aand the anxiety that is caused by always-on connectivity. (3)
 
