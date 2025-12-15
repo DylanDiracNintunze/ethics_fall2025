@@ -70,7 +70,3 @@ These alternatives help reduce reliance on the digital reward loops Alter descri
 [Back to Main Case Study](/ethics_fall2025/casestudy/)
 
 [Go to the citations page](citations/)
-
-[Go to the Stakeholder1 page to learn more.](stakeholder1/)
-
-[Go to the Stakeholder2 page to learn more](stakeholder2/)

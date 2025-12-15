@@ -63,7 +63,3 @@ These strategies can help mitigate the constant loops, as Alter describes, the "
 [Back to Main Case Study](/ethics_fall2025/casestudy/)
 
 [Go to the citations page](citations/)
-
-[Go to the Stakeholder2 page to learn more](stakeholder2/)
-
-[Go to the Stakeholder3 page to learn more](stakeholder3/)

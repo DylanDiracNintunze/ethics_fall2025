@@ -91,3 +91,5 @@ Alter notes that people “struggle to use digital products in moderation” bec
 [Go to the Stakeholder2 page to learn more](stakeholder2/)
 
 [Go to the Stakeholder3 page to learn more](stakeholder3/)
+
+[Go to the activity page](activity/)

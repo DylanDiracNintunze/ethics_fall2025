@@ -72,7 +72,3 @@ Developers should take not of these cascading effects not only for ethical self-
 [Back to Main Case Study](/ethics_fall2025/casestudy/)
 
 [Go to the citations page](citations/)
-
-[Go to the Stakeholder1 page to learn more.](stakeholder1/)
-
-[Go to the Stakeholder3 page to learn more](stakeholder3/)
