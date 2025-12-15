@@ -15,3 +15,5 @@ Volume 10,
 ISSN 2451-9588,
 https://doi.org/10.1016/j.chbr.2023.100299.
 (https://www.sciencedirect.com/science/article/pii/S2451958823000325)
+
+3. Alter, A. (2017). Irresistible: The rise of addictive technology and the business of keeping us hooked. Penguin Press.

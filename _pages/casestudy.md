@@ -4,6 +4,24 @@ title: 'Case Study'
 author_profile: true
 ---
 
+### Addictive Phone Apps Features and their Impact on Users Mental Health - Exploratory Case Study
+
+## Learning Objectives
+
+Through this case study, I hope to instill knowledge related to Problematic Smartphone Use and mental health, including:
+
+* PSU is not caused by the phone itself but by the apps inside of it.
+
+* Psychological triggers in mobile apps that make phones addictive.
+
+* Mental health effects of PSU
+
+* Symptoms of smartphone addiction and ways to address it as individuals and as communities
+
+* Ethical responsibilities to keep in mind as mobile app developers
+
+* Healthy alternatives to encourage mobile app addicts to adopt
+
 ## Abstract
 
 This case study aims to explore design features of some of the most-used apps worldwide and what makes them addictive. I will look at psychological and economic concepts that influence the choice of app designers when making addictive apps and the impact of excessive apps usage on mental health. The general points of this case study will include concepts definition related to app development, design and mental health and a brief overview of the design process of an app.
@@ -16,7 +34,7 @@ For my third audience, the relatives of those addicted, I will present ways to o
 
 ## Introduction
 
-Smartphones have become instrumental in our daily lives, but the psychological costs of increasingly persuasive app features are getting out of hand. Research shows that design choices, not the device itself, drive excessive use. As Montag et al. note, “the likely culprit to understand over-usage is not the smartphone itself, but the excessive use of applications installed on smartphones” (2)
+Smartphones have become instrumental in our daily lives, but the psychological costs of increasingly persuasive app features are getting out of hand. Research shows that design choices, not the device itself, drive excessive use. As Montag et al. note, “the likely culprit to understand over-usage is not the smartphone itself, but the excessive use of applications installed on smartphones” (2). Mobile app development has integrated psychology over the years in order to drive user engagement and make it harder for someone to put down their mobile device.
 
 This case study explores how apps become addictive, the psychological and economic drivers behind the addictive design features, and the consequences on the mental health of the users.
 
@@ -24,11 +42,11 @@ This case study explores how apps become addictive, the psychological and econom
 
 Problematic Smartphone Use (PSU).
 
-PSU is defined as a “craving to use a smartphone in a way that is difficult to control and leads to impaired daily functioning” (1)
+PSU is defined as a “craving to use a smartphone in a way that is difficult to control and leads to impaired daily functioning”. (1) This can lead to risky behaviors like driving while distracted which has serious consequences. Furthermore, PSU is usually linked to poor sleep, reduced focus and depression.
 
 Persuasive / Addictive Design.
 
-Common design mechanisms whereby apps increasingly deploy persuasive features that extend usage time and keep users engaged for as long as possible. (2)
+Common design mechanisms whereby apps increasingly deploy persuasive features that extend usage time and keep users engaged for as long as possible. (2) These features are commonly seen in social media and messaging apps which end up earning more in ad revenues because of the attention they get from users.
 
 Behavioral Addiction.
 
@@ -36,32 +54,40 @@ Adam Alter explains that behavioral addiction is a result of modern technologies
 
 ## Why Apps Are Designed to Be Addictive
 
-Across entertainment, social networking, messaging, and gaming platforms, developers integrate a number of psychological triggers for the sake of user engagement and retention. Some of the triggers are:
+Across entertainment, social networking, messaging, and gaming platforms, developers integrate various psychological triggers for the sake of user engagement and retention. Some of the triggers are:
 
-* Variable rewards (likes, notifications, loot boxes).
+* Variable rewards (likes, notifications, loot boxes). Most commonly seen in social media apps where you are encouraged to share about your life constantly.
 
-* Progress loops (streaks, points).
+* Progress loops (streaks, points). Usually present in video games and educational apps like Duolingo. 
 
-* Social accountability (leaderboards, friend comparisons).
+* Social accountability (leaderboards, friend comparisons). You can find these in educational apps and definitely in video games.
 
-* Economic incentives built into freemium models.
+* Economic incentives built into freemium models. These features are very common in video games and in some of the most used apps worldwide like Spotify, Tinder, etc.
 
 Montag et al. highlight six major mechanisms in social media and freemium apps, noting that these features are “built to prolong usage time” and monetize user data via attention extraction. (2) The most commonly used mechanisms are: Endless scrolling in social media apps and the endowment effect in video games. The endowment effect is the phenomenon whereby as a player spends more and more time playing a game, it gets harder to detach from it because of all the efforts and emotions that they have put into the game.
 
-Chen et al.’s study adds that persuasive features “prolonged their screen time, reinforced phone-checking habits, and caused distractions” among users, highlighting a phenomenon whereby one thing leads to another in order to drive user engagement inside an app. (1)
+Chen et al.’s study, when talking about the effect of addictive design on their research subjects, adds that persuasive features “prolonged their screen time, reinforced phone-checking habits, and caused distractions” among users, highlighting a phenomenon whereby one thing leads to another in order to drive user engagement inside an app. (1)
 
 ## Mental Health Impacts
 
 Some of the mental health issues related to PSU include:
 
-* Increased anxiety and depression
+* Increased anxiety and depression. A very common example is in social media apps where there are heightened levels of lifestyle comparison between friends, therefore leading to the FOMO (Fear Of Missing Out) and depression.
 
-* Difficulty concentrating
+* Difficulty concentrating especially among teenagers and students who are some of the most affected demographics.
 
-* Interrupted sleep
+* Interrupted sleep due to the blue light emitted by phone screen especially near bedtime when it is encouraged to switch off all electronics.
 
-* Lower productivity
+* Lower productivity because of the extended screen time caused by those addictive apps.
 
-* Impaired social functioning
+* Impaired social functioning which happens in the long run if somebody continues being glued on their phone as a result of dopamine receptors constantly looking for satisfaction from life online.
 
 Alter notes that people “struggle to use digital products in moderation” because they are engineered to be irresistible.(3) This is very noticeable in social media apps with the endless scrolling feature that give a false sense of achievement to the users hence it is very hard to stop.
+
+[Go to the citations page](citations/)
+
+[Go to the Stakeholder1 page to learn more.](stakeholder1/)
+
+[Go to the Stakeholder2 page to learn more](stakeholder2/)
+
+[Go to the Stakeholder3 page to learn more](stakeholder3/)
